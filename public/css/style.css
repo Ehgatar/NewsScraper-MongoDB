@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+pre{
+
+
+}
+.save , .deleteArticle , .addNote{
+    width: auto;
+    margin: 10px auto;
+
+}
